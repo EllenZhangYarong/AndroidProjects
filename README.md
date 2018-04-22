@@ -2,21 +2,21 @@
 
 -- 
 
-![original pic](Screenshot_20160902-195533.png =100x)
+![original pic](Screenshot_20160902-195533.png)
 
 
 -- 
 
-![filled pic](Screenshot_20160902-195549.png =100x)
+![filled pic](Screenshot_20160902-195549.png)
 
 
 -- 
 
-![filled pic Version 2 ](Screenshot_20160902-195602.png =100x)
+![filled pic Version 2 ](Screenshot_20160902-195602.png)
 
 -- 
 
-![filled pic Version 3 ](Screenshot_20160902-195617.png =100x)
+![filled pic Version 3 ](Screenshot_20160902-195617.png)
 
 -- 
 
