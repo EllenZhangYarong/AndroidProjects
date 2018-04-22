@@ -32,10 +32,6 @@
 
 -- 
 
-![median filter Version 1 ](Screenshot_20160902-195726.png)
-
--- 
-
 ![median filter Version 1 ](LearnChineseCharacter/Screenshot_1485157751.png)
 
 -- 
