@@ -7,24 +7,6 @@
 
 -- 
 
-![filled pic](Screenshot_20160902-195549.png)
-
-
--- 
-
-![filled pic Version 2 ](Screenshot_20160902-195602.png)
-
--- 
-
-![filled pic Version 3 ](Screenshot_20160902-195617.png)
-
--- 
-
-![filled pic Version 4 ](Screenshot_20160902-195623.png)
-
--- 
-
-![filled pic Version 5 ](Screenshot_20160902-195636.png)
 
 -- 
 
