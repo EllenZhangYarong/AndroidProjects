@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context=".MainActivity">
+
+
+
+    <TextView
+        android:id="@+id/tvDisplayOneLine"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="One Two, Buckle my shoe"
+        android:textColor="#f80303"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Play"
+        android:id="@+id/btnPlay"
+        android:layout_marginTop="39dp"
+        android:layout_below="@+id/tvDisplayOneLine"
+        android:layout_toRightOf="@+id/btnStop"
+        android:layout_toEndOf="@+id/btnStop"
+        android:layout_marginLeft="57dp"
+        android:layout_marginStart="57dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop"
+        android:id="@+id/btnStop"
+        android:layout_alignTop="@+id/btnPlay"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="57dp"
+        android:layout_marginStart="57dp" />
+
+
+</RelativeLayout>

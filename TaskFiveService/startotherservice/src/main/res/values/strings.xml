@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">我要启动任务五的服务</string>
+    <string name="bindService">启动外部服务</string>
+    <string name="unbindService">停止外部服务</string>
+    <string name="bindOtherService">绑定外部服务</string>
+    <string name="unbindOtherService">解绑外部服务</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">图片浏览器</string>
+    <string name="hint">"You should gain the permission first !"</string>
+</resources>

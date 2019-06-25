@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fefefe"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/rank1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+        android:src="@drawable/businesslistings_list_icon_star_full" />
+
+    <ImageView
+        android:id="@+id/rank2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+
+        android:src="@drawable/businesslistings_list_icon_star_full" />
+
+    <ImageView
+        android:id="@+id/rank3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+
+        android:src="@drawable/businesslistings_list_icon_star_full" />
+
+    <ImageView
+        android:id="@+id/rank4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+
+        android:src="@drawable/businesslistings_list_icon_star_half" />
+
+    <ImageView
+        android:id="@+id/rank5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="5dp"
+
+        android:src="@drawable/businesslistings_list_icon_star_no" />
+
+    <TextView
+        android:id="@+id/tvDefaultCardsRank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="4dp"
+        android:text="Sales Per Month"
+        android:textSize="8sp" />
+</LinearLayout>

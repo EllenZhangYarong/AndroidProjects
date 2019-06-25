@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">锁屏配置</string>
+    <string name="hintwords">需要获取设备管理权限才能拥有锁屏的功能</string>
+    <string name="btnRegister">获取设备管理者权限</string>
+    <string name="btnUnregister">注销设备管理者权限</string>
+    <string name="btnLock">锁屏</string>
+    <string name="lockscreen">一键锁屏</string>
+    <string name="hintwords2">已拥有设备管理权限（强力锁屏）</string>
+    <string name="hintEnable">已获得设备管理权限</string>
+    <string name="hintDisabled">已注销设备管理权限</string>
+</resources>

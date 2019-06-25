@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context=".SongPlayerActivity">
+
+    <TextView
+        android:id="@+id/tvDisplaySongName"
+        android:gravity="left"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:textColor="#0000FF"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvDisplayLine"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:textColor="#f80303"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvDispayWhole"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="20dp"
+        android:textAlignment="center"
+        android:layout_weight="5"
+        android:nestedScrollingEnabled="true"
+        android:scrollIndicators="right"
+        android:text="" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical|center_horizontal"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/ibStop"
+            android:src="@drawable/player_stop"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/ibPlay"
+            android:src="@drawable/player_play"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/ibMic"
+            android:src="@drawable/mic"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/ibMicUsing"
+            android:src="@drawable/mic_using"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="gone" />
+
+        <ImageButton
+            android:id="@+id/ibPlayRecord"
+            android:src="@drawable/player_playrecord"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="visible" />
+
+    </LinearLayout>
+</LinearLayout>

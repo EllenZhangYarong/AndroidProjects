@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="4"
+    android:padding="5dp"
+    android:rowCount="5"
+
+    tools:context="com.ellen.taskeightsquares.Main2Activity">
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="1"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="2"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="3"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="4"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="5"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="6"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="7"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="8"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="9"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="10"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="11"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="12"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="13"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="14"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="15"
+        app:rectColor="#FFFF0000" />
+
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="16"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="17"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="18"
+        app:rectColor="#FFFF0000" />
+
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="19"
+        app:rectColor="#FFFF0000" />
+
+    <com.ellen.taskeightsquares.CustomView
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:background="#FFFFFFFF"
+        android:paddingBottom="10dp"
+        android:paddingLeft="5dp"
+        app:exampleColor="#FFFFFFFF"
+        app:exampleDimension="36sp"
+        app:exampleString="20"
+        app:rectColor="#FFFF0000" />
+
+
+</GridLayout>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">简单计算器</string>
+    <string name="action_settings">Settings</string>
+    <string name="problem"></string>
+    <string name="cannotZero">亲，被除数不能为零啊！</string>
+</resources>

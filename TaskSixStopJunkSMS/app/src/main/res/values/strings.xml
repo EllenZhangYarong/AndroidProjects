@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">垃圾短信拦截</string>
+    <string name="ok">确定</string>
+    <string name="addnewkey">添加关键词</string>
+    <string name="addnewnumber">添加号码</string>
+    <string name="editnumber">编辑号码</string>
+    <string name="editkeywords">编辑关健字</string>
+    <string name="editnumorkey">请编辑需要拦截的号码及关键字</string>
+    <string name="setting">设置</string>
+
+</resources>

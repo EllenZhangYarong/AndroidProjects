@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskFiveContacts</string>
+    <string name="addContacts">Add Contacts</string>
+    <string name="addContact">Add Contact</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose">Please Choose</string>
+    <string name="makeacall">Make A Call</string>
+    <string name="sms">Send Message</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="contactname">Name</string>
+</resources>

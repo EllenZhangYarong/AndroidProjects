@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#fefefe">
+
+    <TextView
+        android:id="@+id/tvDefaultRankBig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Let&apos;s Home"
+        android:textColor="#f80303"
+        android:textSize="16sp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/tvDefaultRankSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Test For Words"
+        android:textSize="12sp"
+
+        android:layout_below="@+id/tvDefaultRankBig"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/ivDefaultRank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="icon"
+        android:src="@drawable/waimai_launcher"
+        android:layout_below="@+id/tvDefaultRankSmall"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

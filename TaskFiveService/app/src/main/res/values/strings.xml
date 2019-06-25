@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">任务五的服务</string>
+    <string name="startService">启动服务</string>
+    <string name="syncData">同步数据</string>
+    <string name="unbindService">解绑服务</string>
+    <string name="bindService">绑定服务</string>
+    <string name="stopService">停止服务</string>
+    <string name="defaultWordsForEditText">Currrent Value is:</string>
+    <string name="passData1">测试从Service传递数据到Activity</string>
+    <string name="passData2">测试从Activity传递数据到Service</string>
+</resources>

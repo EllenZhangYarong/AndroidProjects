@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:background="#fefefe">
+
+    <ImageView
+        android:id="@+id/ivAboutMe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="icon"
+        android:paddingLeft="5dp"
+        android:layout_weight="1"
+        android:src="@drawable/mypage_about_list_icon_feedback" />
+
+    <TextView
+        android:id="@+id/tvAboutMe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:layout_weight="6"
+        android:text="My address"
+
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/ivAboutMe" />
+    <TextView
+        android:id="@+id/tvAboutMeArrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableEnd="@drawable/gray_right_arrow"
+        android:layout_weight="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:clickable="true" />
+
+</RelativeLayout>

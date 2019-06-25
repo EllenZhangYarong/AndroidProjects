@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">任务八：定制控件</string>
+    <string name="click">通过点击事件变化样式</string>
+    <string name="xmlfile">通过ＸＭＬ文件配置样式</string>
+    <string name="multichoice">多选按钮</string>
+</resources>

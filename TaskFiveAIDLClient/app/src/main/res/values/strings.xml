@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">任务五的客户端</string>
+    <string name="action_settings">Settings</string>
+    <string name="unbind">解绑任务五服务</string>
+    <string name="bind">绑定任务五服务</string>
+</resources>
